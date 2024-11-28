@@ -1,5 +1,10 @@
 package main
 
+//localhost:1234/list
+//localhost:1234/status
+//localhost:1234/search/2109416471
+//localhost:1234/delete/2109416471
+//localhost:1234/insert/Mike/Tsoukalos/2109416471
 import (
 	"encoding/csv"
 	"fmt"
